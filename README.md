@@ -1,16 +1,11 @@
-# Projects Wiki | Wiki de Proyectos
-### *Active Development Sites & Real Estate Ledgers*
+# content-wiki-projects
+### *Encyclopedic Knowledge & Architecture*
 
-> **OPERATIONAL POSTURE [MARCH 2026]:**
-> **Phase:** Production Iteration 1
-> **Focus:** Co-Location Mandate Execution
-> **Estado:** Registro activo de propiedades.
+**Status: Active Governance** | **Taxonomy: Tier-5-Service**
 
-## 🏗️ Procurement & Development Logging
-This repository serves as the daily operational ledger for Woodfine Capital Projects. All site data, architectural milestones, and regulatory approvals are documented here utilizing machine-readable deterministic files.
+## 📜 Operational Mandate
+This repository houses the immutable architectural and corporate directives.
 
-### Active Sites (The Co-Location Mandate)
-*Awaiting initial deployment logs from the Property Totebox cluster.*
-
----
-*© 2026 Woodfine Management Corp.*
+> **Directory Nomenclature Ledger**
+> All files committed to this directory MUST adhere to the following strict prefix taxonomy:
+> * `TOPIC-*`: Encyclopedic system architecture concepts and operational records.
