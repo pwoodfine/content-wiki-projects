@@ -9,7 +9,7 @@
 [![Structure](https://img.shields.io/badge/Structure-Direct--Hold-164679?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Active_Logging-54924E?style=flat-square)](#)
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
 
 </div>
 
@@ -26,18 +26,6 @@ This repository serves as the daily operational ledger for Woodfine Capital Proj
 
 ## 🏗️ The Direct-Hold Deployment Pipeline
 Our real estate strategy isolates physical assets from layered private equity fees, ensuring maximum capital efficiency from procurement to stabilized management.
-
-```mermaid
-graph LR;
-    A[Procurement] -->|Co-Location Mandate| B[Development];
-    B -->|Narrow Bank Model| C[Management];
-    C -->|Flow-Through Taxation| D((Perpetual Equity));
-    
-    style A fill:#F7F9FA,stroke:#164679,stroke-width:2px,color:#111827
-    style B fill:#F7F9FA,stroke:#164679,stroke-width:2px,color:#111827
-    style C fill:#F7F9FA,stroke:#164679,stroke-width:2px,color:#111827
-    style D fill:#164679,stroke:#111827,stroke-width:2px,color:#fff
-```
 
 ### 📍 Active Sites (The Co-Location Mandate)
 *Awaiting initial deployment logs from the Property Totebox cluster.*
