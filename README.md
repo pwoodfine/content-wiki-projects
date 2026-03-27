@@ -9,7 +9,7 @@
 [![Structure](https://img.shields.io/badge/Structure-Direct--Hold-164679?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Active_Logging-54924E?style=flat-square)](#)
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
 
 </div>
 
