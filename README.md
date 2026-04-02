@@ -1,34 +1,26 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/woodfine/woodfine-media-assets/main/ASSET-SIGNET-MASTER.svg" width="80" alt="Woodfine Signet">
+# Woodfine Management Corp.
+### *Projects Wiki: Public Development Index*
 
-# Projects Wiki | Wiki de Proyectos
-### *Active Development Sites & Real Estate Ledgers*
+[![Entity](https://img.shields.io/badge/Entity-Enterprise_Customer-164679?style=flat-square)](#)
+[![Asset](https://img.shields.io/badge/Asset-Institutional_Real_Estate-164679?style=flat-square)](#)
 
-[![Mandate](https://img.shields.io/badge/Mandate-Co--Location-164679?style=flat-square)](#)
-[![Structure](https://img.shields.io/badge/Structure-Direct--Hold-164679?style=flat-square)](#)
-[![Status](https://img.shields.io/badge/Status-Active_Logging-54924E?style=flat-square)](#)
-
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Organization Profile** ](https://github.com/woodfine) | [ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **Media Assets** ](https://github.com/woodfine/woodfine-media-assets) | [ **PointSav Monorepo** ](https://github.com/pointsav/pointsav-monorepo)
 
 </div>
 
 ---
 
+## 1. PUBLIC DEVELOPMENT INFORMATION
+
+**[ EN ]** This repository serves as the Public Development Information Index. It is a directory detailing physical property execution, building connectivity integrations, and real estate asset operations.
 <details>
-<summary><b>🛡️ VIEW OPERATIONAL POSTURE & EXECUTIVE MANDATE</b></summary>
-<br>
-<b>Phase:</b> Production Iteration 1 | <b>Focus:</b> Co-Location Mandate Execution | <b>Estado:</b> Registro activo de propiedades.
-<br><br>
-This repository serves as the daily operational ledger for Woodfine Capital Projects. All physical site data, architectural milestones, and regulatory approvals are documented here. It utilizes machine-readable deterministic files to ensure audit transparency and immutability.
-<br><br>
+<summary><b>[ ES ] Traducción al Español</b></summary>
+Este repositorio sirve como el Índice de Información de Desarrollo Público. Es un directorio que detalla la ejecución de propiedades físicas, integraciones de conectividad de edificios y operaciones de activos inmobiliarios.
 </details>
 
-## 🏗️ The Direct-Hold Deployment Pipeline
-Our real estate strategy isolates physical assets from layered private equity fees, ensuring maximum capital efficiency from procurement to stabilized management.
-
-### 📍 Active Sites (The Co-Location Mandate)
-*Awaiting initial deployment logs from the Property Totebox cluster.*
-
----
-*© 2026 Woodfine Management Corp.*
+<br>
+<div align="center">
+<sub><em>Woodfine Capital Projects, Woodfine Management Corp., PointSav Digital Systems, Totebox Orchestration, and Totebox Archive are trademarks owned by Woodfine Capital Projects Inc. This notice serves as a formal declaration of intellectual property rights, asserting continuous use in commerce regardless of the omission of the ™ or ® symbols in the accompanying text. All operational and architectural system designations (including but not limited to PointSav Console OS, PointSav Infrastructure OS, PointSav MediaKit OS, PointSav Network OS, PointSav PrivateGit OS, PointSav Workplace OS, Totebox Integration OS, and Totebox OS) are proprietary structural wordmarks utilized exclusively within the PointSav Digital Systems architecture.</em></sub>
+</div>
