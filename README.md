@@ -15,9 +15,9 @@
 
 ## 1. PROJECT OPERATIONS
 
-**[ EN ]** This Digital Property serves as the public index for physical property execution and direct-hold real estate operations. Powered by PointSav MediaKit OS, the repository compiles building connectivity telemetry and management ledgers into static architectural and financial disclosures.
+**[ EN ]** This Digital Property serves as the public index for physical property execution and direct-hold real estate operations. Powered by PointSav MediaKit OS, the repository compiles building connectivity telemetry into static architectural and financial disclosures.
 
-> **[ ES ]** *Esta Propiedad Digital sirve como índice público para la ejecución de propiedades físicas y las operaciones inmobiliarias de direct-hold solutions. Impulsado por PointSav MediaKit OS, el repositorio compila la telemetría de conectividad de los edificios y los libros de gestión en divulgaciones arquitectónicas y financieras estáticas.*
+> **[ ES ]** *Esta Propiedad Digital sirve como el índice público para la ejecución de propiedades físicas y las operaciones inmobiliarias de direct-hold solutions. Impulsado por PointSav MediaKit OS, el repositorio compila la telemetría de conectividad de los edificios en divulgaciones arquitectónicas y financieras estáticas.*
 
 ---
 
